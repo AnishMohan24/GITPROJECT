@@ -11,6 +11,8 @@ public class GITPROJECT {
 
         driver.get("https://demoqa.com/");
         
+        driver.getCurrentUrl();
+        
         Thread.sleep(3000);
 
         System.out.println(driver.getTitle());
