@@ -9,7 +9,7 @@ public class GITPROJECT {
 
         WebDriver driver = new ChromeDriver();
 
-        driver.get("https://demoqa.com/");
+        driver.get("https://gmail.com/");
         
         
         
